@@ -1,0 +1,1 @@
+# haopintui-plugin-android-baichuan
