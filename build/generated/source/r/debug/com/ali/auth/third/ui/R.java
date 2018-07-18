@@ -17,16 +17,16 @@ public final class R {
         public static int ali_auth_titlebar_height = 0x7f080053;
     }
     public static final class drawable {
-        public static int com_taobao_tae_sdk_root_cer = 0x7f090069;
-        public static int com_taobao_tae_sdk_web_view_title_bar_back = 0x7f09006a;
-        public static int com_taobao_tae_sdk_web_view_title_bar_close = 0x7f09006b;
+        public static int com_taobao_tae_sdk_root_cer = 0x7f090071;
+        public static int com_taobao_tae_sdk_web_view_title_bar_back = 0x7f090072;
+        public static int com_taobao_tae_sdk_web_view_title_bar_close = 0x7f090073;
     }
     public static final class id {
-        public static int ali_auth_qrview = 0x7f0c0018;
-        public static int ali_auth_webview = 0x7f0c0019;
+        public static int ali_auth_qrview = 0x7f0c001b;
+        public static int ali_auth_webview = 0x7f0c001c;
     }
     public static final class layout {
-        public static int ali_auth_qrview = 0x7f0f001e;
+        public static int ali_auth_qrview = 0x7f0f0024;
     }
     public static final class string {
         public static int action_settings = 0x7f150020;
@@ -65,22 +65,22 @@ public final class R {
         public static int auth_sdk_message_15_message = 0x7f15006b;
         public static int auth_sdk_message_15_name = 0x7f15006c;
         public static int auth_sdk_message_15_type = 0x7f15006d;
-        public static int com_taobao_tae_sdk_alert_message = 0x7f15006f;
-        public static int com_taobao_tae_sdk_authorize_title = 0x7f150070;
-        public static int com_taobao_tae_sdk_bind_title = 0x7f150071;
-        public static int com_taobao_tae_sdk_confirm = 0x7f150072;
-        public static int com_taobao_tae_sdk_confirm_cancel = 0x7f150073;
-        public static int com_taobao_tae_sdk_loading_progress_message = 0x7f150074;
-        public static int com_taobao_tae_sdk_logout_fail_message = 0x7f150075;
-        public static int com_taobao_tae_sdk_network_not_available_message = 0x7f150076;
-        public static int com_taobao_tae_sdk_ssl_error_info = 0x7f150077;
-        public static int com_taobao_tae_sdk_ssl_error_title = 0x7f150078;
-        public static int com_taobao_tae_sdk_system_exception = 0x7f150079;
-        public static int hello_world = 0x7f15007a;
+        public static int com_taobao_tae_sdk_alert_message = 0x7f150071;
+        public static int com_taobao_tae_sdk_authorize_title = 0x7f150072;
+        public static int com_taobao_tae_sdk_bind_title = 0x7f150073;
+        public static int com_taobao_tae_sdk_confirm = 0x7f150074;
+        public static int com_taobao_tae_sdk_confirm_cancel = 0x7f150075;
+        public static int com_taobao_tae_sdk_loading_progress_message = 0x7f150076;
+        public static int com_taobao_tae_sdk_logout_fail_message = 0x7f150077;
+        public static int com_taobao_tae_sdk_network_not_available_message = 0x7f150078;
+        public static int com_taobao_tae_sdk_ssl_error_info = 0x7f150079;
+        public static int com_taobao_tae_sdk_ssl_error_title = 0x7f15007a;
+        public static int com_taobao_tae_sdk_system_exception = 0x7f15007b;
+        public static int hello_world = 0x7f15007c;
     }
     public static final class style {
-        public static int AppBaseTheme = 0x7f160005;
-        public static int AppTheme = 0x7f160006;
-        public static int ali_auth_qr_activity_style = 0x7f160164;
+        public static int AppBaseTheme = 0x7f160008;
+        public static int AppTheme = 0x7f160009;
+        public static int ali_auth_qr_activity_style = 0x7f160176;
     }
 }

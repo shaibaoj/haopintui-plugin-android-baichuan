@@ -28,7 +28,8 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
-    implementation project(':sdk')
+
+    compile project(':nexus')
 
     //fastjson
     compile 'com.alibaba:fastjson:1.2.9'
@@ -63,7 +64,7 @@ dependencies {
     compile 'com.alibaba.sdk.android:alibc_trade_biz:3.1.1.206'
     compile 'com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206'
 
-    implementation 'com.qianwen:update-app:3.5.1'
+    compile 'com.qianwen:update-app:3.5.2'
 
     implementation 'com.qianwen:okhttp-utils:3.8.0'
     implementation 'com.lzy.net:okgo:3.0.4'

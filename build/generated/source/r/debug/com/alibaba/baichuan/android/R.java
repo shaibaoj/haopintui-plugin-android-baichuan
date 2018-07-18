@@ -11,33 +11,33 @@ public final class R {
         public static int alibc_transparent = 0x7f06001c;
     }
     public static final class drawable {
-        public static int com_alibaba_bc_auth_cancle_btn = 0x7f090063;
-        public static int com_alibaba_bc_auth_ll_bg = 0x7f090064;
-        public static int com_alibaba_bc_auth_success_btn = 0x7f090065;
-        public static int com_alibc_trade_auth_close = 0x7f090066;
-        public static int com_taobao_nb_sdk_web_view_title_bar_back = 0x7f090067;
-        public static int com_taobao_nb_sdk_web_view_title_bar_close = 0x7f090068;
+        public static int com_alibaba_bc_auth_cancle_btn = 0x7f09006b;
+        public static int com_alibaba_bc_auth_ll_bg = 0x7f09006c;
+        public static int com_alibaba_bc_auth_success_btn = 0x7f09006d;
+        public static int com_alibc_trade_auth_close = 0x7f09006e;
+        public static int com_taobao_nb_sdk_web_view_title_bar_back = 0x7f09006f;
+        public static int com_taobao_nb_sdk_web_view_title_bar_close = 0x7f090070;
     }
     public static final class id {
-        public static int com_alibc_auth_progressbar = 0x7f0c0023;
-        public static int com_taobao_nb_sdk_web_view_title_bar = 0x7f0c0024;
-        public static int com_taobao_nb_sdk_web_view_title_bar_back_button = 0x7f0c0025;
-        public static int com_taobao_nb_sdk_web_view_title_bar_close_button = 0x7f0c0026;
-        public static int com_taobao_nb_sdk_web_view_title_bar_title = 0x7f0c0027;
-        public static int com_taobao_nb_sdk_webview_click = 0x7f0c0028;
-        public static int com_taobao_tae_sdk_web_view_title_bar = 0x7f0c0029;
-        public static int open_auth_btn_cancel = 0x7f0c0052;
-        public static int open_auth_btn_close = 0x7f0c0053;
-        public static int open_auth_btn_grant = 0x7f0c0054;
-        public static int open_auth_desc = 0x7f0c0055;
-        public static int open_auth_rl = 0x7f0c0056;
-        public static int open_auth_title = 0x7f0c0057;
-        public static int webviewload_monitor_cancel_point = 0x7f0c008c;
+        public static int com_alibc_auth_progressbar = 0x7f0c0035;
+        public static int com_taobao_nb_sdk_web_view_title_bar = 0x7f0c0036;
+        public static int com_taobao_nb_sdk_web_view_title_bar_back_button = 0x7f0c0037;
+        public static int com_taobao_nb_sdk_web_view_title_bar_close_button = 0x7f0c0038;
+        public static int com_taobao_nb_sdk_web_view_title_bar_title = 0x7f0c0039;
+        public static int com_taobao_nb_sdk_webview_click = 0x7f0c003a;
+        public static int com_taobao_tae_sdk_web_view_title_bar = 0x7f0c003b;
+        public static int open_auth_btn_cancel = 0x7f0c0084;
+        public static int open_auth_btn_close = 0x7f0c0085;
+        public static int open_auth_btn_grant = 0x7f0c0086;
+        public static int open_auth_desc = 0x7f0c0087;
+        public static int open_auth_rl = 0x7f0c0088;
+        public static int open_auth_title = 0x7f0c0089;
+        public static int webviewload_monitor_cancel_point = 0x7f0c00df;
     }
     public static final class layout {
-        public static int com_alibc_auth_actiivty = 0x7f0f0020;
-        public static int com_taobao_nb_sdk_web_view_activity = 0x7f0f0021;
-        public static int com_taobao_nb_sdk_web_view_title_bar = 0x7f0f0022;
+        public static int com_alibc_auth_actiivty = 0x7f0f0026;
+        public static int com_taobao_nb_sdk_web_view_activity = 0x7f0f0027;
+        public static int com_taobao_nb_sdk_web_view_title_bar = 0x7f0f0028;
     }
     public static final class raw {
         public static int keep = 0x7f140001;
@@ -86,10 +86,10 @@ public final class R {
         public static int alisdk_message_808_type = 0x7f15004d;
         public static int alisdk_message_809_message = 0x7f15004e;
         public static int app_name = 0x7f150051;
-        public static int com_taobao_nb_sdk_loading_progress_message = 0x7f15006e;
-        public static int init_success = 0x7f15007b;
+        public static int com_taobao_nb_sdk_loading_progress_message = 0x7f150070;
+        public static int init_success = 0x7f15007d;
     }
     public static final class style {
-        public static int alibc_auth_dialog = 0x7f160165;
+        public static int alibc_auth_dialog = 0x7f160177;
     }
 }
