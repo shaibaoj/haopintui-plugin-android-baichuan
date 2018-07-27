@@ -34,7 +34,7 @@ import java.util.Map;
  * Created by wu on 2017/12/29.
  */
 
-@WeexModule(name = "bmAuth", lazyLoad = true)
+@WeexModule(name = "baichuan", lazyLoad = true)
 public class BaichuanModule extends WXModule {
 
     @JSMethod
