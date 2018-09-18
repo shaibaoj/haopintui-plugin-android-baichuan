@@ -87,7 +87,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/shaders" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/attr" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/bundles" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/check-manifest" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/classes" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/intermediate-jars" />
@@ -114,6 +113,7 @@
     <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7-26.0.2" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-annotations:26.0.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/Users/wu/Documents/os/haopintui/app/haopintui/platforms/android/shengduoduo/nexus/nexus/libs/umeng-share-core-6.9.3.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.alibaba.sdk.android:alibc_link_partner-1.1.0.6" level="project" />
     <orderEntry type="library" name="Gradle: com.ali.auth.sdk:alibabauth_ext:1.4.3@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.github.bumptech.glide:okhttp3-integration-4.7.1" level="project" />
@@ -126,8 +126,8 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jre7:1.1.2-3@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.taobao.android:utdid4all:1.1.5.3_proguard@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.lzy.net:okgo-3.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/Users/wu/Documents/os/haopintui/app/haopintui/platforms/android/shengduoduo/nexus/nexus/libs/libammsdk.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.13.0@jar" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:/Users/wu/Documents/os/haopintui/app/haopintui/platforms/android/shengduoduo/nexus/nexus/libs/SocialSDK_WeChat_Simplify.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.alibaba.sdk.android:alibc_trade_biz-3.1.1.210" level="project" />
     <orderEntry type="library" name="Gradle: com.ali.auth.sdk:alibabauth_core:1.4.3@jar" level="project" />
     <orderEntry type="library" name="Gradle: org.weex.plugin:annotation:1.0.0@jar" level="project" />
